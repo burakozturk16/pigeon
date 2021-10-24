@@ -2,6 +2,8 @@
 
 ![Postman Pigeon](./pigeon.jpg)
 
+<img src='https://img.shields.io/badge/npm-1.0.0-brightgreen.svg' alt='node-v1' />
+
 ```js
 import React from "react";
 import ReactDOM from "react-dom";

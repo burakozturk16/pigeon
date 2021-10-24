@@ -1,5 +1,5 @@
 {
-  "name": "pigeon",
+  "name": "react-pigeon",
   "version": "1.0.0",
   "description": "A little helper spring to call/access methods between react components.",
   "main": "Pigeon.js",
