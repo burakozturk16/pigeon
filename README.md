@@ -61,7 +61,7 @@ class ComponentB extends React.Component {
 
 ### Install
 
-- Npm: `npm install pigeon`
+- Npm: `npm install react-pigeon`
 
 ### Rules
 
