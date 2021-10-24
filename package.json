@@ -1,0 +1,17 @@
+{
+  "name": "pigeon",
+  "version": "1.0.0",
+  "description": "A little helper spring to call/access methods between react components.",
+  "main": "Pigeon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "burakozturk16",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/burakozturk16/pigeon.git"
+  },
+  "keywords": ["react", "component", "method"],
+  "homepage": "https://github.com/burakozturk16/pigeon"
+}
