@@ -40,7 +40,7 @@ class ComponentA extends React.Component {
     }
     
     render(){
-      <button onClick={pigeOn('ComponentB.sayHello', {foo: "bar"})}>Fly now!</button>
+      <button onClick={() => pigeOn('ComponentB.sayHello', {foo: "bar"})}>Fly now!</button>
     }
 }
 
